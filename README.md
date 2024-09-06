@@ -5,3 +5,7 @@ This script and/or executable runs in terminal due to the simplicity of the proj
 ## Tools Used 🛠️
 * Python - Single python file with simple logic using the requests library, and bs4 from BeautifulSoup.
 * Steam Store Page - A user will be presumably supplying a game's Steam store page to the program, which will scrape/parse the page for required information.
+
+## NOTES:
+- Update image for executable
+- Include image "guide" in this README file
