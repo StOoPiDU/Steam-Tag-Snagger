@@ -9,3 +9,6 @@ This script and/or executable runs in terminal due to the simplicity of the proj
 ## NOTES:
 - Update image for executable
 - Include image "guide" in this README file
+- Convert to standard HTML parser?
+- Convert output to string
+- Maybe add more space to prints
