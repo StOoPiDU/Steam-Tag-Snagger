@@ -81,9 +81,10 @@ def main():
 
             # Print the information as a comma-separated list
             if info:
-                print("Steam Game Information:")
+                print("Game:")
+                print(info[0])
+                print("\nSteam Game Information:")
                 print(', '.join(info))
-                print('Finished! :D')
 
                 # Write to text file (unused)
                 # with open('steam_info.txt', 'w', encoding='utf-8') as f:
