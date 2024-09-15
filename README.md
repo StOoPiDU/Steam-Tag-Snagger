@@ -7,8 +7,5 @@ This script and/or executable runs in terminal due to the simplicity of the proj
 * Steam Store Page - A user will be presumably supplying a game's Steam store page to the program, which will scrape/parse the page for required information.
 
 ## NOTES:
-- Update image for executable
 - Include image "guide" in this README file
 - Convert to standard HTML parser?
-- Convert output to string
-- Maybe add more space to prints
